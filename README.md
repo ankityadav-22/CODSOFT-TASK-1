@@ -21,8 +21,4 @@ Navigate to the project directory: cd landing-page
 Open the index.html file in your preferred browser.
 
 
-We welcome contributions to enhance and expand the Landing Page project. If you'd like to contribute:
 
-Fork the repository and create your branch.
-Make your improvements and commit changes.
-Push your changes and open a pull request.
