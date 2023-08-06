@@ -1,0 +1,104 @@
+
+.container{
+    max-width: 80vw;
+    font-family: 'Bungee Spice', cursive;;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft{
+    width: 50%;
+}
+
+.topright{ 
+    width: 50%;
+}
+
+.section1{
+   max-height: 85vh; 
+   color: #711e15;
+}
+
+.section1 h1{
+    color: #37110d;
+    font-size: 2rem;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.doggiimg{
+    width: 300px;
+}
+
+.topright .dogee{
+    width: 575px;
+}
+
+.section2{
+    padding: 10px;
+}
+
+.section2 h1{
+    font-size: 2.3rem;
+}
+
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(204, 83, 13);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+   margin: 12px 2px;
+}
+
+.foodee{
+    width: 186px;
+}
+
+.groomingi{
+    width: 186px;
+}
+
+.routing{
+    width: 186px;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
