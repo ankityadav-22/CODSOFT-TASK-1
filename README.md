@@ -1,4 +1,5 @@
 Landing Page Project 🚀
+
 Welcome to the official repository of the Landing Page project! This project aims to showcase an elegant and effective landing page layout that can be used as a foundation for various web projects.
 
 📁 Repository: [https://github.com/ankityadav-22/CODSOFT]
@@ -15,6 +16,8 @@ Follow these simple steps to get the Landing Page project up and running on your
 
 Navigate to the project directory: cd landing-page
 Open the index.html file in your preferred browser.
+
+
 Contributing
 We welcome contributions to enhance and expand the Landing Page project. If you'd like to contribute:
 
