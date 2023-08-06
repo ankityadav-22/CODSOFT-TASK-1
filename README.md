@@ -19,6 +19,7 @@ Open the index.html file in your preferred browser.
 
 
 Contributing
+
 We welcome contributions to enhance and expand the Landing Page project. If you'd like to contribute:
 
 Fork the repository and create your branch.
